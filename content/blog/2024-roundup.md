@@ -94,7 +94,8 @@ If you haven’t watched this yet, go do it. Right now. It’s on Crunchyroll, o
 
 Nina's the best btw
 
-<div class="tenor-gif-embed" data-postid="7491478060007232419" data-share-method="host" data-aspect-ratio="0.532468" data-width="100%"><a href="https://tenor.com/view/nina-iseri-girls-band-cry-flip-off-gremlin-gif-7491478060007232419">Nina Iseri Girls Band Cry GIF</a>from <a href="https://tenor.com/search/nina+iseri-gifs">Nina Iseri GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="7491478060007232419" data-share-method="host" data-aspect-ratio="0.532468" data-width="25%"><a href="https://tenor.com/view/nina-iseri-girls-band-cry-flip-off-gremlin-gif-7491478060007232419">Nina Iseri Girls Band Cry GIF</a>from <a href="https://tenor.com/search/nina+iseri-gifs">Nina Iseri GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 
 # Afterword

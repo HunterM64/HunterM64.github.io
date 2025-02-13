@@ -7,3 +7,6 @@ pluralizeListTitles = false
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[params]
+    mainSections = ['media-thread', 'blog']

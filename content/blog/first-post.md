@@ -1,11 +1,9 @@
 +++
 title = 'First Blog Post'
-date = 2024-11-14T17:58:39-05:00
+date = 2024-11-14
 +++
 
 I felt like if I wanted to have a blog section on my website, I would need at least one initial post! But I can't figure out what I want to write a blog post about! Truly one of the great problems of our time. 
-
-<!--more-->
 
 So I figured I'd just sit down and write whatever comes into my head. Right now I'm watching The Critic on Tubi. Season 1, Episode 4 in particular. It's pretty entertaining.
 
